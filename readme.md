@@ -1,12 +1,5 @@
 # Readme
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-
 ## About The Project
 This python package simplifies retrieving data from the [OpenLigaDB API](https://github.com/OpenLigaDB/OpenLigaDB-Samples).
 
