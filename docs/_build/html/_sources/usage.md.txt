@@ -1,9 +1,5 @@
-# Readme
-## About The Project
-This python package simplifies retrieving data from the [OpenLigaDB API](https://github.com/OpenLigaDB/OpenLigaDB-Samples).
-Docs can be found [here](https://openligadb.readthedocs.io/en/latest/index.html).
-
-## Getting Started
+# Getting Started
+## Install
 Clone this repository to your local machine.
 ```
 git clone https://github.com/dpleus/streamlitnginx.git
@@ -15,7 +11,7 @@ Afterwards go to the download folder an install the package.
 pip install .
 ```
 
-### How to use
+## Simple Example
 
 In a first step you need to create a connection object.
 
@@ -43,7 +39,7 @@ connection.get_goals("bl2", 2016)
 
 The first parameter specifies the league. The league overview can be found [here](https://www.openligadb.de/Datenhaushalt/). The second parameter defines the season (starting year). A third parameter for the round is optional.
 
-### Limitations
+## Limitations
 All data is maintained through OpenLigaDB. This package was tested on football data and there is no guarantee it works for other sports.
 
 ## License
