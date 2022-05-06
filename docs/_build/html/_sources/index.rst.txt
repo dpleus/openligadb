@@ -1,20 +1,12 @@
-.. openligadb documentation master file, created by
-   sphinx-quickstart on Fri May  6 17:37:33 2022.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to openligadb's documentation!
 ======================================
 
+**openligadb** simplifies retrieving data from the `OpenLigaDB API <https://github.com/OpenLigaDB/OpenLigaDB-Samples>`_.
+
+
 .. toctree::
+   Usage <usage.md>
+
+   Functions <functions.rst>
    :maxdepth: 2
-   :caption: Contents:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

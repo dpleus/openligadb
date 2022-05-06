@@ -1,0 +1,4 @@
+pandas
+sphinx_rtd_theme
+pytest
+myst-parser
