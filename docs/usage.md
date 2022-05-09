@@ -2,7 +2,7 @@
 ## Install
 Clone this repository to your local machine.
 ```
-git clone https://github.com/dpleus/streamlitnginx.git
+git clone https://github.com/dpleus/openligadb.git
 ```
 
 Afterwards go to the download folder an install the package.
